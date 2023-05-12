@@ -1007,6 +1007,7 @@ int main()
     } while (chon != 8);
     return 0;
 
+}//abc xyz
 <<<<<<< HEAD
-}//concac
+// done }//concac
 
